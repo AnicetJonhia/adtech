@@ -2,18 +2,38 @@
 
 A professional Next.js-based advertising campaign management system with MongoDB integration. This platform allows users to create, manage, and analyze advertising campaigns with real-time performance metrics.
 
-## Screenshots
-### Desktop
-![Home / Dashboard - Desktop](/public/screenshots/desk-home.png)
-![Campaign List - Desktop](/public/screenshots/desk-list.png)
-![Create Campaign - Desktop](/public/screenshots/desk-create.png)
-![Campaign Detail - Desktop](/public/screenshots/desk-detail.png)
+## 📸 Screenshots
 
-### Mobile
-![Home / Dashboard - Mobile](/public/screenshots/mobile-home.png)
-![Campaign List - Mobile](/public/screenshots/mobile-list.png)
-![Create Campaign - Mobile](/public/screenshots/mobile-create.png)
-![Campaign Detail - Mobile](/public/screenshots/mobile-detail.png)
+### 🖥️ Desktop
+
+#### Dashboard
+![Dashboard Desktop](public/screenshots/dashboard_desk.png)
+
+#### All Campaigns
+![All Campaigns Desktop](public/screenshots/all_campaigns_desk.png)
+
+#### Campaign Details
+![Campaign Details Desktop](public/screenshots/campaign_details_desk.png)
+
+#### Create Campaign
+![Create Campaign Desktop](public/screenshots/create_campaign_desk.png)
+
+---
+
+### 📱 Mobile
+
+#### Dashboard
+![Dashboard Mobile](public/screenshots/dashboard_mobile.png)
+
+#### All Campaigns
+![All Campaigns Mobile](public/screenshots/all_campaigns_mobile.png)
+
+#### Campaign Details
+![Campaign Details Mobile](public/screenshots/campaign_details_mobile.png)
+
+#### Create Campaign
+![Create Campaign Mobile](public/screenshots/create_campaing_mobile.png)
+
 
 ## Features
 
