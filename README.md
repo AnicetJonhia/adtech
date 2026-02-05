@@ -4,16 +4,16 @@ A professional Next.js-based advertising campaign management system with MongoDB
 
 ## Screenshots
 ### Desktop
-![Home / Dashboard - Desktop](public/screenshots/desk-home.png)
-![Campaign List - Desktop](public/screenshots/desk-list.png)
-![Create Campaign - Desktop](public/screenshots/desk-create.png)
-![Campaign Detail - Desktop](public/screenshots/desk-detail.png)
+![Home / Dashboard - Desktop](/public/screenshots/desk-home.png)
+![Campaign List - Desktop](/public/screenshots/desk-list.png)
+![Create Campaign - Desktop](/public/screenshots/desk-create.png)
+![Campaign Detail - Desktop](/public/screenshots/desk-detail.png)
 
 ### Mobile
-![Home / Dashboard - Mobile](public/screenshots/mobile-home.png)
-![Campaign List - Mobile](public/screenshots/mobile-list.png)
-![Create Campaign - Mobile](public/screenshots/mobile-create.png)
-![Campaign Detail - Mobile](public/screenshots/mobile-detail.png)
+![Home / Dashboard - Mobile](/public/screenshots/mobile-home.png)
+![Campaign List - Mobile](/public/screenshots/mobile-list.png)
+![Create Campaign - Mobile](/public/screenshots/mobile-create.png)
+![Campaign Detail - Mobile](/public/screenshots/mobile-detail.png)
 
 ## Features
 
